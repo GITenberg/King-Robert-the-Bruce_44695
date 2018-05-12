@@ -1,0 +1,36 @@
+_repo: King-Robert-the-Bruce_44695
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 44695-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murison, Alexander Falconer
+    alias: Murison, A. F. (Alexander Falconer)
+    birthdate: 1847
+    deathdate: 1934
+    gutenberg_agent_id: '42878'
+    url: http://www.gutenberg.org/2009/agents/42878
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Falconer_Murison
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2014-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 29
+subjects:
+- !lcsh 'Robert I, King of Scots, 1274-1329'
+- !lcsh 'Scotland -- Kings and rulers -- Biography'
+- !lcc 'DA'
+title: King Robert the Bruce
+url: http://www.gutenberg.org/ebooks/44695
